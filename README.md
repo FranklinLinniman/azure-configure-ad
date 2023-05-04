@@ -63,7 +63,7 @@ Ensure Connectivity between the client and Domain Controller:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wu7RNvJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install Active Directory:
@@ -77,8 +77,9 @@ Install Active Directory:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gltetps.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://i.imgur.com/2c0Dmkm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Create an Admin and Normal User Account in AD:
 <br>
@@ -142,7 +143,7 @@ Create a bunch of additional users and attempt to log into client-1 with one of 
   <br>
 -Open PowerShell_ise as an administrator
   <br>
--Create a new File and input the script into it
+-Create a new File and input the provided script into it
   <br>
 -Run the script and observe the accounts being created
   <br>
