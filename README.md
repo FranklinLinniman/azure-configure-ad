@@ -30,7 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ORkuR34.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Setup Resources in Azure:
@@ -48,8 +48,9 @@ Setup Resources in Azure:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JUc9ZJB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://i.imgur.com/Ddaeg8d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Ensure Connectivity between the client and Domain Controller:
 <br>
