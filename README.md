@@ -98,7 +98,7 @@ Create an Admin and Normal User Account in AD:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9kVFOSV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Join Client-1 to your domain (mydomain.com):
@@ -116,7 +116,7 @@ Join Client-1 to your domain (mydomain.com):
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5P7rVd8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Setup Remote Desktop for non-administrative users on Client-1:
@@ -134,7 +134,7 @@ Setup Remote Desktop for non-administrative users on Client-1:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GvcItbB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create a bunch of additional users and attempt to log into client-1 with one of the users:
