@@ -149,6 +149,6 @@ Create a bunch of additional users and attempt to log into client-1 with one of 
   <br>
 -When finished, open ADUC and observe the accounts in the appropriate OU
   <br>
--attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+-attempt to log into Client-1 with one of the accounts, take note of the password in the script
 </p>
 <br />
